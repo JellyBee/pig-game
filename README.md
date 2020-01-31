@@ -1,2 +1,3 @@
-# pig-game
-Pig game after Udemy tutorial by Jonas Schmedtman
+## Pig Game
+
+Simple and fun Pig Game made with Vanilla JS.
